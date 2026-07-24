@@ -8,9 +8,6 @@ Este projeto substitui toda a eletrônica principal do **Pioneer CDJ-100S** por 
 
 ---
 
-# Demonstração
-
----
 
 # Principais Recursos
 
@@ -115,13 +112,7 @@ Saídas RCA
 
 ✔ Demonstrações em vídeo
 
-✔ Especificações técnicas
-
-✔ Lista dos componentes utilizados
-
-✔ Informações sobre compatibilidade com softwares
-
-✔ Exemplos de funcionamento
+✔ Manual de Montagem Demonstração
 
 ✔ Histórico de atualizações
 
