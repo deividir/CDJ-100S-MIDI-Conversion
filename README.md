@@ -182,7 +182,10 @@ Caso prefira, você também pode desenvolver seu próprio firmware utilizando a 
 
 Caso prefira não desenvolver seu próprio firmware, disponibilizo placas **STM32 BlackPill já programadas e testadas**, prontas para instalação.
 
-📩 Entre em contato para mais informações 
+Curso Completo - R$ 44,90
+1 STM32 Gravada e Testada - R$ 120,00
+Curso + 1 STM32 Gravada e testada - R$ 149,00
+Kit para 2 CDJs (2 STM32 + curso) – R$ 249,90 ou R$ 259,90.
 
 ---
 
