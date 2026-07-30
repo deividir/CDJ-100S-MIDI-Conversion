@@ -188,7 +188,7 @@ Caso prefira não desenvolver seu próprio firmware, disponibilizo placas **STM3
 
 📦 [Curso + 1 STM32 Gravada e testada] - R$ 149,00
 
-📦📦 [Kit para 2 CDJs (2 STM32 + curso)] – R$ 249,90 ou R$ 259,90.
+📦📦 [Kit para 2 CDJs (2 STM32 + curso)] – R$ 249,90.
 
 ---
 
