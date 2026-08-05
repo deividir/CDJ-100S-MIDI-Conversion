@@ -178,17 +178,15 @@ Caso prefira, você também pode desenvolver seu próprio firmware utilizando a 
 
 ---
 
-# Adquirir uma STM32 Programada
+# Adquirir uma STM32 Programada - APENAS PARA CDJ 100S PIONEER #
 
 Caso prefira não desenvolver seu próprio firmware, disponibilizo placas **STM32 BlackPill já programadas e testadas**, prontas para instalação.
 
 📘 [Curso Completo] - R$ 44,90
 
-💾 [1 STM32 Gravada e Testada] - R$ 120,00
+💾 [1 STM32 Gravada e Testada] - R$ 120,00 - https://produto.mercadolivre.com.br/MLB-5000156981-firmware-de-converso-cdj-microcontrolador-_JM
 
-📦 [Curso + 1 STM32 Gravada e testada] - R$ 149,00
-
-📦📦 [Kit para 2 CDJs (2 STM32 + curso)] – R$ 249,90.
+📦📦 [Kit para 2 CDJs (2 STM32)] – R$ 200,00. - https://produto.mercadolivre.com.br/MLB-5000136811-2-firmware-de-converso-cdj-microcontrolador-_JM
 
 ---
 
