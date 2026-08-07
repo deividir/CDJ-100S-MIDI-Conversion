@@ -141,7 +141,7 @@ Caso deseje utilizar este projeto, você poderá:
 
 # Manual Técnico
 
-O manual completo possui mais de **25 páginas**, contendo:
+O manual completo possui mais de **35 páginas**, contendo:
 
 - Desmontagem completa
 - Ligações elétricas
