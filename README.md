@@ -6,6 +6,13 @@ Este projeto substitui toda a eletrônica principal do **Pioneer CDJ-100S** por 
 
 > ⚠️ Este repositório contém apenas a documentação do projeto. O firmware é proprietário e **não está disponível**.
 
+
+📘 [Curso Completo] - R$ 44,90 - https://go.hotmart.com/S106909223G
+
+💾 [1 STM32 Gravada e Testada] - R$ 120,00 - https://produto.mercadolivre.com.br/MLB-5000156981-firmware-de-converso-cdj-microcontrolador-_JM
+
+📦📦 [Kit para 2 CDJs (2 STM32)] – R$ 200,00. - https://produto.mercadolivre.com.br/MLB-5000136811-2-firmware-de-converso-cdj-microcontrolador-_JM
+
 ---
 
 
