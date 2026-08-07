@@ -182,7 +182,7 @@ Caso prefira, você também pode desenvolver seu próprio firmware utilizando a 
 
 Caso prefira não desenvolver seu próprio firmware, disponibilizo placas **STM32 BlackPill já programadas e testadas**, prontas para instalação.
 
-📘 [Curso Completo] - R$ 44,90
+📘 [Curso Completo] - R$ 44,90 - https://go.hotmart.com/S106909223G
 
 💾 [1 STM32 Gravada e Testada] - R$ 120,00 - https://produto.mercadolivre.com.br/MLB-5000156981-firmware-de-converso-cdj-microcontrolador-_JM
 
